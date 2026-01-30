@@ -20,7 +20,7 @@ Instructions:
     > By default, `files-to-prompt .` will not load hidden files/folders (those that begin with a `.`).
     > If you run `files-to-prompt . --include-hidden` or `files-to-prompt . .github`) instead,
     > you can generate a prompt that includes these hidden files.
-    > Including test cases when prompting LLMs usually drammatically improves results!
+    > Including test cases when prompting LLMs usually dramatically improves results!
     >
     > Depending on your system prompt / model combination,
     > you may need to edit the README file to remove the [prompt injection attack](https://simonwillison.net/series/prompt-injection/).
