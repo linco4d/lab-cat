@@ -3,6 +3,7 @@ This program prints stdin to the screen.
 '''
 import sys
 
+
 def cat(file):
     # Read and write the file in chunks to achieve O(1) memory complexity
     chunk_size = 1024 * 1024  # 1MB chunks
@@ -11,6 +12,7 @@ def cat(file):
         if not chunk:
             break
         sys.stdout.buffer.write(chunk)
+
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
