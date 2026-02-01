@@ -29,7 +29,7 @@ Instructions:
 
 4. Modify this file to include an image demonstrating that your testcases are passing on github actions.
 
-![Screenshot 2026-02-01 at 1.09.13 PM]("Screenshot 2026-02-01 at 1.09.13 PM.jpg")
+![Screenshot of Passing](<Screenshot 2026-02-01 at 1.09.13 PM.jpg>)
 
 5. Upload the url to your completed repo to sakai.
 
